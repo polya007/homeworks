@@ -14,6 +14,6 @@
 
 №|Описание|Ссылка на работу
 ---|:---:|---:
-1 |  |
-2 |  |
-3 |   |
+1 | HW0 | [ссылка](https://github.com/polya007/python-dh-hw/blob/master/README.md)
+2 | HW1 | [ссылка](https://github.com/polya007/python-dh-hw/blob/master/HW1.ipynb)
+3 | HW2 | [ссылка](https://github.com/polya007/python-dh-hw/blob/master/HW2.ipynb)
